@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nilam309/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/nilam309/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nilam309/Leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/nilam309/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nilam309/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nilam309/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nilam309/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nilam309/Leetcode/tree/master/0035-search-insert-position) |
+| [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nilam309/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nilam309/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/nilam309/Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -72,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/nilam309/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
