@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nilam309/Leetcode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nilam309/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/nilam309/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nilam309/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nilam309/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/nilam309/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nilam309/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/nilam309/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nilam309/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nilam309/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/nilam309/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/nilam309/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nilam309/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nilam309/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nilam309/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nilam309/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilam309/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nilam309/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilam309/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -95,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/nilam309/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nilam309/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nilam309/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
