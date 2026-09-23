@@ -7,17 +7,15 @@ class Solution {
         {
             return max;
         }
-        for(int i=0;i<row;i++)
+       for(int [] i:accounts)
+       {
+        int sum=0;
+        for(int j: i)
         {
-            int sum=0;
-            for(int j=0;j<col;j++)
-            {   
-                sum +=accounts[i][j];
-            }
-
-            max= Math.max(max,sum);
-            
+            sum +=j;
         }
+        max=Math.max(max,sum);
+       }
 
         return max;
     }
